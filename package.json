@@ -1,0 +1,15 @@
+{
+  "name": "coder-note",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "dbtlek",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^5.0.1",
+    "marked": "^0.6.2"
+  }
+}
